@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @xueyunlong12589
-- 👀 I’m interested in Affective Computing
+- 👀 My current research interests lie at EEG emotion recognition。
 - 📫 220202126@seu.edu.cn
 
 <!---
